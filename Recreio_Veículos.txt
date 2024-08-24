@@ -1,0 +1,2 @@
+Concessionária: Recreio Veículos, Vendedor: Carlos | Cliente: Eduardo, CPF: 111.111.111-11, Data da compra: 12/12/2024 | Carro, Marca: Ford, Modelo: Ford Fiesta, Ano: 2024, Cor: Vermelho, Preço: R$300000, Número de portas: 4
+==================================================
