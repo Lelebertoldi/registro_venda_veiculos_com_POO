@@ -5,4 +5,6 @@ O código possui opção para registrar nova venda ou verificar vendas realizada
 
 Registra qual a concessionária que realizou a venda, qual o vendedor, qual tipo de veículo (carro, moto ou caminhonete) e atributos do veículo.
 
+Cria um arquivo de texto separado para cada sede para guardar as informações do resgistro das vendas.
+
 
