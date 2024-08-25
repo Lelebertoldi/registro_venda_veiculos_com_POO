@@ -9,3 +9,7 @@ Confirma os dados, perguntando se deseja editar, descartar ou salvar.
 Cria um arquivo de texto separado para cada sede para guardar as informações do resgistro das vendas.
 
 Modelo de CRUD (Create, Read, Update, Delete)
+
+[Código](https://github.com/Lelebertoldi/registro_venda_veiculos_com_POO/blob/main/registro_venda_veiculos_com_POO.ipynb)
+
+O diretório possui uma versão executável do arquivo disponível para download, não é arquivo de instalação.
