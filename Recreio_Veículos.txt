@@ -1,2 +1,4 @@
 Concessionária: Recreio Veículos, Vendedor: Carlos | Cliente: Eduardo, CPF: 111.111.111-11, Data da compra: 12/12/2024 | Carro, Marca: Ford, Modelo: Ford Fiesta, Ano: 2024, Cor: Vermelho, Preço: R$300000, Número de portas: 4
 ==================================================
+Concessionária: Recreio Veículos, Vendedor: Rodrigo | Cliente: Manuel, CPF: 222.222.222-22, Data da compra: 11/11/2024 | Caminhonete, Marca: Ford, Modelo: Ford K, Ano: 2022, Cor: Verde, Preço: R$200000, Volume da caçamba: 2000L
+==================================================
