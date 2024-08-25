@@ -8,4 +8,4 @@ Confirma os dados, perguntando se deseja editar, descartar ou salvar.
 
 Cria um arquivo de texto separado para cada sede para guardar as informações do resgistro das vendas.
 
-
+Modelo de CRUD (Create, Read, Update, Delete)
